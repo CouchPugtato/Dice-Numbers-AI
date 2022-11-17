@@ -1,8 +1,8 @@
-# Project Name
+# Dice-Numbers-AI
 
- Add short description of project here > 
+The documentation for my AI project of detecting what number is rolled on a six sided die.
 
-![add image descrition here](direct image link here)
+[Imgur](https://i.imgur.com/3yVYOKy.jpg)
 
 ## The Algorithm
 
