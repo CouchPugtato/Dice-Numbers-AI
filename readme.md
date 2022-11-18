@@ -18,4 +18,4 @@ Required Installed Libraries:
   - torch
   - torchvision
 
-[View a video explanation here](video link)
+[[View a video explanation here]](https://youtu.be/dEabd4gYNL4)
