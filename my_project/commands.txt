@@ -1,0 +1,4 @@
+NET=models/d6Data/
+DATASET=data/d6Data/
+
+imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/{which label folder input file is in}/{input file name}.jpg {output file name}.jpg
